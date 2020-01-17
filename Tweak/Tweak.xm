@@ -108,7 +108,7 @@ void updateViewConfiguration() {
     return self;
 }
 
-/* Replace notification management functions with our logic. */
+/* Replace notification management functions with our logic. remember this because its importanto  */
 
 -(bool)insertNotificationRequest:(NCNotificationRequest *)req forCoalescedNotification:(id)arg2 {
     if (self.axnAllowChanges) return %orig;     // This condition is true when Axon is updating filtered notifications for display.
