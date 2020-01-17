@@ -424,7 +424,7 @@
 			<key>isStaticText</key>
 			<true/>
 			<key>footerText</key>
-			<string>Axon, originally by NepetaDev and Updated by BawAppie, is a rewrite of PriorityHub for iOS 11 and higher. It is licensed under MIT. This version was created by _kritanta to remove Cephei from preferences, and to fix some issues I had personally been having. All credit for the update and new themes goes to BawAppie. The "Rounded Group" theme is a slightly modified version of BawAppie's "Group" Theme, included by _kritanta.</string>
+			<string>Axon, originally by NepetaDev and Updated by BawAppie, is a rewrite of PriorityHub for iOS 11 and higher. It is licensed under MIT. This version was created by _kritanta to remove Cephei from preferences, and to fix some issues I had personally been having. All credit for the update and new themes goes to BawAppie. The "Rounded Group" theme is a slightly modified version of BawAppie's "Group" Theme, included by _kritanta. SIGJNF snatched it to learn Objective-C.</string>
 		</dict>
 	</array>
 	<key>title</key>
