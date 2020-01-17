@@ -1,3 +1,3 @@
 # Axon
 
-A tweak that does something weird to notifications.
+A tweak that rounds up notifications on lockscreen and notification center.
